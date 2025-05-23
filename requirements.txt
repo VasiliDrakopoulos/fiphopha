@@ -1,5 +1,0 @@
-numpy
-pandas
-sci kit learn
-tk
-setuptools
