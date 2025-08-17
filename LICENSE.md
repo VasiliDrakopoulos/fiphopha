@@ -13,7 +13,7 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 In addition, any person or entity using, adapting, or modifying this Software
-must give appropriate credit by citing the original publication (https://www.biorxiv.org/content/10.1101/2025.06.12.659422v1) and author (Vasilios Drakopoulos).
+must give appropriate credit by citing the original publication (Drakopoulos, V., Reichenbach, A., Stark, R., Foldi, C. J., Jean-Richard-Dit-Bressel, P., & Andrews, Z. B. (2025). FiPhoPHA-A Fiber Photometry Python Package for Post Hoc Analysis. eNeuro, 12(8), ENEURO.0221-25.2025. https://doi.org/10.1523/ENEURO.0221-25.2025) and author (Vasilios Drakopoulos).
 
 This citation must be included in any publication, work, or research that uses this Software.
 
@@ -27,3 +27,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
