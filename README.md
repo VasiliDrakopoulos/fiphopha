@@ -2,7 +2,7 @@
 
 This Python tool allows for the analysis of photometry data, enabling the user to upload Excel files, select baseline and comparison periods, and calculate significant differences within and between-groups. The tool performs both bootstrapping to derive confidence intervals as well as permutation tests.
 
-## Cite (https://www.biorxiv.org/content/10.1101/2025.06.12.659422v1)
+## Cite (Drakopoulos, V., Reichenbach, A., Stark, R., Foldi, C. J., Jean-Richard-Dit-Bressel, P., & Andrews, Z. B. (2025). FiPhoPHA-A Fiber Photometry Python Package for Post Hoc Analysis. eNeuro, 12(8), ENEURO.0221-25.2025. https://doi.org/10.1523/ENEURO.0221-25.2025)
 
 ## Features
 
@@ -49,3 +49,4 @@ Adapted from Dr. Philip Jean-Richard Dit Bressel from the University of New Sout
 Jean-Richard-Dit-Bressel, P., Clifford, C. W. G., & McNally, G. P. (2020). Analyzing Event-Related Transients: Confidence Intervals, Permutation Tests, and Consecutive Thresholds. Frontiers in molecular neuroscience, 13, 14. https://doi.org/10.3389/fnmol.2020.00014
 
 I would also like to thank all members of the Andrews Lab at Monash University for being testers of the scripts.
+
